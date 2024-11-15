@@ -19,7 +19,7 @@ git clone https://github.com/omaar25/Article-Analysis-and-Answer-Generation.git
 cd Article-Analysis-and-Answer-Generation
 pip install -r requirements.txt
 ```
-Set up your .env file
+### 2.Set up your .env file
 Make sure to add your OpenAI API key in a .env file:
 ```bash
 OPENAI_API_KEY=your_openai_api_key
